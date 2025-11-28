@@ -22,9 +22,5 @@ abstract class DatabaseSiswa : RoomDatabase(){
                     .build().also {Instance= it}
             })
         }
-
-
     }
-
-
 }
