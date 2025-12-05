@@ -10,7 +10,6 @@ import com.example.a194_roomdatabase.room.Siswa
 class EntryViewModel( private val repositoriSiswa: RepositoriSiswa) : ViewModel()
 {
     var uiStateSiswa by mutableStateOf(UIStateSiswa())
-        private set
 
     private fun validasiInput(uiState: DetailSiswa = uiStateSiswa.detailSiswa
     ): Boolean {

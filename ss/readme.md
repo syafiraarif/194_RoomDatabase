@@ -1,3 +1,8 @@
 ![Belom ada Data](TidakAdaData.png)
 ![Udah ada Data](UdahAdaData.png)
 ![Tampilan Tambah Siswa](InputData.png)
+![Halaman Detail ](HalamanDetail.png)
+![Halaman Edit Data](HalamanEdit.png)
+![Halaman / Pop Up Hapus ](HalamanHapus.png)
+![Halaman Home Sebelum Dihapus](HalamanHome.png)
+![Halaman Home Setelah Data Dihapus](HalamanHomeSetelahdiHapus.png)
